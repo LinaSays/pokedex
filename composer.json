@@ -1,0 +1,14 @@
+{
+    "name": "mint/pokedex",
+    "type": "project",
+    "authors": [
+        {
+            "name": "LinaSays",
+            "email": "moskvina.alina10@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "vlucas/phpdotenv": "^3.6"
+    }
+}
